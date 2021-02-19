@@ -8,7 +8,7 @@ variable "secret_key" {
 
 variable "aws_region" {
     description = "Region for VPC"
-    default = "ap-southeast-2"
+    default = "ap-south-1"
 }
 
 variable "vpc_cidr" {
